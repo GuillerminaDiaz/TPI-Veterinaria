@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\controllers\\mascotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\controllers\\mascotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\repository\\mascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\repository\\mascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\services\\imascotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\services\\imascotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\repository\\veterinariarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\repository\\veterinariarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\controllers\\veterinariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\controllers\\veterinariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\models\\veterinariabdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\models\\veterinariabdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\services\\veterinariaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\services\\veterinariaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\models\\detalleatencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\models\\detalleatencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\models\\disponibilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\models\\disponibilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\models\\atencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\models\\atencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\models\\mascotum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\models\\mascotum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\repository\\iveterinariarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\repository\\iveterinariarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\services\\iveterinariaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\services\\iveterinariaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\repository\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\repository\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|c:\\users\\usuario\\onedrive\\escritorio\\veterinaria-estilos\\backendveterinarianuevo\\back (1)\\veterinariaturnos\\veterinaria6\\veterinaria6\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A53E7C3A-9F60-4A3F-BF85-F8988EC1BE01}|Veterinaria6\\Veterinaria6.csproj|solutionrelative:veterinaria6\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMascotaService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Services\\IMascotaService.cs",
+              "RelativeDocumentMoniker": "Veterinaria6\\Services\\IMascotaService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Services\\IMascotaService.cs",
+              "RelativeToolTip": "Veterinaria6\\Services\\IMascotaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T20:05:30.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Program.cs",
+              "RelativeDocumentMoniker": "Veterinaria6\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Program.cs",
+              "RelativeToolTip": "Veterinaria6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:28:45.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VeterinariaService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Services\\VeterinariaService.cs",
+              "RelativeDocumentMoniker": "Veterinaria6\\Services\\VeterinariaService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Services\\VeterinariaService.cs",
+              "RelativeToolTip": "Veterinaria6\\Services\\VeterinariaService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIAwwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:41:02.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VeterinariaController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Controllers\\VeterinariaController.cs",
+              "RelativeDocumentMoniker": "Veterinaria6\\Controllers\\VeterinariaController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Controllers\\VeterinariaController.cs",
+              "RelativeToolTip": "Veterinaria6\\Controllers\\VeterinariaController.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAIwJ4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:38:28.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MascotaController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Controllers\\MascotaController.cs",
+              "RelativeDocumentMoniker": "Veterinaria6\\Controllers\\MascotaController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Controllers\\MascotaController.cs",
+              "RelativeToolTip": "Veterinaria6\\Controllers\\MascotaController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAwwGoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:05:14.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MascotaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Repository\\MascotaRepository.cs",
+              "RelativeDocumentMoniker": "Veterinaria6\\Repository\\MascotaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Repository\\MascotaRepository.cs",
+              "RelativeToolTip": "Veterinaria6\\Repository\\MascotaRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAD4vzoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:14:55.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Veterinaria6\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Veterinaria6\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:05:15.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Veterinaria6\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Veterinaria6\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA4wB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:03:23.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\appsettings.json",
+              "RelativeDocumentMoniker": "Veterinaria6\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\appsettings.json",
+              "RelativeToolTip": "Veterinaria6\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T23:40:25.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VeterinariaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Repository\\VeterinariaRepository.cs",
+              "RelativeDocumentMoniker": "Veterinaria6\\Repository\\VeterinariaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Repository\\VeterinariaRepository.cs",
+              "RelativeToolTip": "Veterinaria6\\Repository\\VeterinariaRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA0wDQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:42:05.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Disponibilidad.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Models\\Disponibilidad.cs",
+              "RelativeDocumentMoniker": "Veterinaria6\\Models\\Disponibilidad.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Models\\Disponibilidad.cs",
+              "RelativeToolTip": "Veterinaria6\\Models\\Disponibilidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:33:08.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "veterinariaBDContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Models\\veterinariaBDContext.cs",
+              "RelativeDocumentMoniker": "Veterinaria6\\Models\\veterinariaBDContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Models\\veterinariaBDContext.cs",
+              "RelativeToolTip": "Veterinaria6\\Models\\veterinariaBDContext.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAIAwwL0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:46:05.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetalleAtencion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Models\\DetalleAtencion.cs",
+              "RelativeDocumentMoniker": "Veterinaria6\\Models\\DetalleAtencion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Models\\DetalleAtencion.cs",
+              "RelativeToolTip": "Veterinaria6\\Models\\DetalleAtencion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:01:17.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Atencion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Models\\Atencion.cs",
+              "RelativeDocumentMoniker": "Veterinaria6\\Models\\Atencion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Models\\Atencion.cs",
+              "RelativeToolTip": "Veterinaria6\\Models\\Atencion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:47:24.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IVeterinariaService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Services\\IVeterinariaService.cs",
+              "RelativeDocumentMoniker": "Veterinaria6\\Services\\IVeterinariaService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Services\\IVeterinariaService.cs",
+              "RelativeToolTip": "Veterinaria6\\Services\\IVeterinariaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:40:21.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IVeterinariaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Repository\\IVeterinariaRepository.cs",
+              "RelativeDocumentMoniker": "Veterinaria6\\Repository\\IVeterinariaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Repository\\IVeterinariaRepository.cs",
+              "RelativeToolTip": "Veterinaria6\\Repository\\IVeterinariaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:41:55.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Veterinaria6\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Models\\Cliente.cs",
+              "RelativeToolTip": "Veterinaria6\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:04:53.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Mascotum.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Models\\Mascotum.cs",
+              "RelativeDocumentMoniker": "Veterinaria6\\Models\\Mascotum.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Models\\Mascotum.cs",
+              "RelativeToolTip": "Veterinaria6\\Models\\Mascotum.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:05:26.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\efpt.config.json",
+              "RelativeDocumentMoniker": "Veterinaria6\\efpt.config.json",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\efpt.config.json",
+              "RelativeToolTip": "Veterinaria6\\efpt.config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T19:09:55.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Veterinaria6\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Services\\IUserService.cs",
+              "RelativeToolTip": "Veterinaria6\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:04:28.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Veterinaria6\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Services\\UserService.cs",
+              "RelativeToolTip": "Veterinaria6\\Services\\UserService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIAwwBMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:03:47.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Repository\\IUser.cs",
+              "RelativeDocumentMoniker": "Veterinaria6\\Repository\\IUser.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\VETERINARIA-ESTILOS\\BackEndVeterinariaNuevo\\Back (1)\\veterinariaTurnos\\Veterinaria6\\Veterinaria6\\Repository\\IUser.cs",
+              "RelativeToolTip": "Veterinaria6\\Repository\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:16:04.315Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

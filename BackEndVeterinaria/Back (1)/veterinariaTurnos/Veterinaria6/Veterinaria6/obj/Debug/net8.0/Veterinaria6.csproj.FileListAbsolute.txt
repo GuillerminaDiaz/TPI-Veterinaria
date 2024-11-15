@@ -1,0 +1,780 @@
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.csproj.AssemblyReference.cache
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.AssemblyInfoInputs.cache
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.AssemblyInfo.cs
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.csproj.CoreCompileInputs.cache
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\appsettings.json
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\efpt.config.json
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.exe
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.deps.json
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.runtimeconfig.json
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.pdb
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.Veterinaria6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.build.Veterinaria6.props
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Veterinaria6.props
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Veterinaria6.props
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\scopedcss\bundle\Veterinaria6.styles.css
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterina.203B35A5.Up2Date
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\refint\Veterinaria6.dll
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.pdb
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.genruntimeconfig.cache
+C:\Users\Meli\source\repos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\ref\Veterinaria6.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\efpt.config.json
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.exe
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.deps.json
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.runtimeconfig.json
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.pdb
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.Veterinaria6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.build.Veterinaria6.props
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Veterinaria6.props
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Veterinaria6.props
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\scopedcss\bundle\Veterinaria6.styles.css
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterina.203B35A5.Up2Date
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\refint\Veterinaria6.dll
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.pdb
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\ref\Veterinaria6.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\appsettings.json
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\efpt.config.json
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.exe
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.deps.json
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.runtimeconfig.json
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.pdb
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.csproj.AssemblyReference.cache
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.AssemblyInfoInputs.cache
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.AssemblyInfo.cs
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.csproj.CoreCompileInputs.cache
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.Veterinaria6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.build.Veterinaria6.props
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Veterinaria6.props
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Veterinaria6.props
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\scopedcss\bundle\Veterinaria6.styles.css
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterina.203B35A5.Up2Date
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\refint\Veterinaria6.dll
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.pdb
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.genruntimeconfig.cache
+C:\Users\Meli\Desktop\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\ref\Veterinaria6.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\refint\Veterinaria6.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.pdb
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\efpt.config.json
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.exe
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.deps.json
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.runtimeconfig.json
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.pdb
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.Veterinaria6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.build.Veterinaria6.props
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Veterinaria6.props
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Veterinaria6.props
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\scopedcss\bundle\Veterinaria6.styles.css
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterina.203B35A5.Up2Date
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\ref\Veterinaria6.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\efpt.config.json
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.exe
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.deps.json
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.runtimeconfig.json
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.pdb
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.Veterinaria6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.build.Veterinaria6.props
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Veterinaria6.props
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Veterinaria6.props
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\scopedcss\bundle\Veterinaria6.styles.css
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterina.203B35A5.Up2Date
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\refint\Veterinaria6.dll
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.pdb
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\Back (2) (1)\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\ref\Veterinaria6.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\efpt.config.json
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.exe
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.deps.json
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.runtimeconfig.json
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.pdb
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.Veterinaria6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.build.Veterinaria6.props
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Veterinaria6.props
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Veterinaria6.props
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\scopedcss\bundle\Veterinaria6.styles.css
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterina.203B35A5.Up2Date
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\refint\Veterinaria6.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.pdb
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\ref\Veterinaria6.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Usuario\Downloads\BackEndVeterinaria\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.csproj.AssemblyReference.cache
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.AssemblyInfoInputs.cache
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.AssemblyInfo.cs
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.csproj.CoreCompileInputs.cache
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\refint\Veterinaria6.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.pdb
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\appsettings.json
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\efpt.config.json
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.exe
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.deps.json
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.runtimeconfig.json
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.pdb
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.Veterinaria6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.build.Veterinaria6.props
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Veterinaria6.props
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Veterinaria6.props
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\scopedcss\bundle\Veterinaria6.styles.css
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterina.203B35A5.Up2Date
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.genruntimeconfig.cache
+C:\Users\agosc\OneDrive\Escritorio\tpi\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\ref\Veterinaria6.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\efpt.config.json
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\appsettings.json
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.exe
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.deps.json
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.runtimeconfig.json
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.pdb
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.csproj.AssemblyReference.cache
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.AssemblyInfoInputs.cache
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.AssemblyInfo.cs
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.csproj.CoreCompileInputs.cache
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.Veterinaria6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.build.Veterinaria6.props
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Veterinaria6.props
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Veterinaria6.props
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\scopedcss\bundle\Veterinaria6.styles.css
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterina.203B35A5.Up2Date
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\refint\Veterinaria6.dll
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.pdb
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.genruntimeconfig.cache
+C:\Users\benja\Downloads\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\ref\Veterinaria6.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\efpt.config.json
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.exe
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.pdb
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.Veterinaria6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.build.Veterinaria6.props
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Veterinaria6.props
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Veterinaria6.props
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\scopedcss\bundle\Veterinaria6.styles.css
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterina.203B35A5.Up2Date
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\refint\Veterinaria6.dll
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.pdb
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\TPIVeterinariaD\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\ref\Veterinaria6.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\efpt.config.json
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.exe
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Veterinaria6.pdb
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.Veterinaria6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.build.Veterinaria6.props
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Veterinaria6.props
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Veterinaria6.props
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\scopedcss\bundle\Veterinaria6.styles.css
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterina.203B35A5.Up2Date
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\refint\Veterinaria6.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.pdb
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\Veterinaria6.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA-ESTILOS\BackEndVeterinariaNuevo\Back (1)\veterinariaTurnos\Veterinaria6\Veterinaria6\obj\Debug\net8.0\ref\Veterinaria6.dll

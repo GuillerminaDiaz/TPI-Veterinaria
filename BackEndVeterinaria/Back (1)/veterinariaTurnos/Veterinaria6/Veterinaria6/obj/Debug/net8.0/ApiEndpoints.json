@@ -1,0 +1,221 @@
+[
+  {
+    "ContainingType": "Veterinaria6.Controllers.MascotaController",
+    "Method": "Get",
+    "RelativePath": "api/Mascota",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Veterinaria6.Controllers.MascotaController",
+    "Method": "Post",
+    "RelativePath": "api/Mascota",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mascota",
+        "Type": "Veterinaria6.Models.Mascotum",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Veterinaria6.Controllers.MascotaController",
+    "Method": "Get",
+    "RelativePath": "api/Mascota/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Veterinaria6.Controllers.MascotaController",
+    "Method": "Put",
+    "RelativePath": "api/Mascota/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "mascota",
+        "Type": "Veterinaria6.Models.Mascotum",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Veterinaria6.Controllers.MascotaController",
+    "Method": "Delete",
+    "RelativePath": "api/Mascota/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Veterinaria6.Controllers.MascotaController",
+    "Method": "GetTipos",
+    "RelativePath": "api/tiposMascota",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Veterinaria6.Controllers.UserController",
+    "Method": "CrearUsuario",
+    "RelativePath": "api/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "Veterinaria6.Models.Cliente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Veterinaria6.Controllers.VeterinariaController",
+    "Method": "GetAll",
+    "RelativePath": "api/Veterinaria",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Veterinaria6.Controllers.VeterinariaController",
+    "Method": "Post",
+    "RelativePath": "api/Veterinaria",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "atencion",
+        "Type": "Veterinaria6.Models.Atencion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Veterinaria6.Controllers.VeterinariaController",
+    "Method": "GetAllID",
+    "RelativePath": "api/Veterinaria/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Veterinaria6.Controllers.VeterinariaController",
+    "Method": "Delete",
+    "RelativePath": "api/Veterinaria/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Veterinaria6.Controllers.VeterinariaController",
+    "Method": "GetAllBycliente",
+    "RelativePath": "api/Veterinaria/api/atencionPorCliente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Veterinaria6.Controllers.VeterinariaController",
+    "Method": "GetDisponibilidadFecha",
+    "RelativePath": "api/Veterinaria/GetFecha",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Veterinaria6.Controllers.VeterinariaController",
+    "Method": "GetDisponibilidadHora",
+    "RelativePath": "api/Veterinaria/GetHora",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Veterinaria6.Controllers.VeterinariaController",
+    "Method": "GetTiposAtencion",
+    "RelativePath": "api/Veterinaria/GetTiposAtencion",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Veterinaria6.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objUserLogin",
+        "Type": "Veterinaria6.Entity.UserLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
